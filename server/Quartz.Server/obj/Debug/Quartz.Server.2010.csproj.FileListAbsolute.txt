@@ -1,0 +1,10 @@
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\Quartz.Server.exe.config
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\quartz_jobs.xml
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\App.config
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\quartz.config
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\Quartz.Server.exe
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\Quartz.Server.pdb
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\server\Quartz.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\server\Quartz.Server\obj\Debug\Quartz.Server.exe
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\server\Quartz.Server\obj\Debug\Quartz.Server.pdb
+C:\Users\luyanga\Downloads\Quartz.NET-2.0.1\build\4.0\Debug\Quartz.Server\Quartz.Server.XML
